@@ -13,8 +13,6 @@ button {
 	cursor: pointer;
 }
 
-/* tirar bordar do input quando foco estiver nele */
-
 input:focus {
 	outline: none;
 }
