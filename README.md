@@ -38,7 +38,3 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 Made with :heart: by <a href="https://github.com/luisfelipecode" target="_blank">luis felipe</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
